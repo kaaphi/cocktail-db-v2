@@ -1,0 +1,11 @@
+name: Indispensable Cocktail à la Gibson
+recipeElements:
+- [1 1/2, oz, Gin, isBase: true]
+- [1/2, oz, Dry Vermouth]
+- [1/2, oz, Sweet Vermouth]
+- [1/2, tsp, Absinthe]
+instructions: Stir with ice and strain into a chilled cocktail glass. Garnish 
+  with a pickled pearl onion.
+reference: Imbibe
+referenceDetail: September/October 2010, pg 22
+tags: [newish, standard]

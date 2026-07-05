@@ -1,0 +1,10 @@
+name: Vesper
+recipeElements:
+- ['3', oz, Gin, isBase: true]
+- ['1', oz, Vodka]
+- [1/2, oz, Lillet Blanc, note: original calls for Kina Lillet]
+- ['1', dash, Aromatic Bitters, note: the bitters help approximate the Kina 
+      Lillet]
+instructions: Combine all ingredients in shaker with plenty of ice. Shake well 
+  and strain into a chilled cocktail glass. Garnish with a lemon twist.
+reference: Casino Royale

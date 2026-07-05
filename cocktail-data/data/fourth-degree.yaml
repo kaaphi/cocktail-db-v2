@@ -1,0 +1,11 @@
+name: Fourth Degree
+recipeElements:
+- ['2', oz, Gin, isBase: true]
+- ['1', oz, Sweet Vermouth]
+- ['1', dash, Absinthe]
+instructions: Stir with ice and strain into a chilled cocktail glass. Garnish 
+  with lemon peel.
+reference: Imbibe!
+referenceDetail: pg 246
+note: Also called a “Gin and It” with the absinthe replaced by aromatic bitters.
+tags: [standard]

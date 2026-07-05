@@ -1,0 +1,8 @@
+name: Negroni
+recipeElements:
+- ['1', oz, Gin, {note: or try Mezcal or Jamaican Rum, isBase: true}]
+- ['1', oz, Campari, isBase: true]
+- ['1', oz, Sweet Vermouth, isBase: true]
+instructions: Stir in mixing glass with plenty of ice. Strain into chilled 
+  cocktail glass. Garnish with a slice of orange.
+tags: [standard]

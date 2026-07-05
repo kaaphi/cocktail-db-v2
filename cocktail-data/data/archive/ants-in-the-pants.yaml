@@ -1,0 +1,10 @@
+name: Ants in the Pants
+recipeElements:
+- [1 1/2, oz, Gin, isBase: true]
+- [3/4, oz, Grand Marnier]
+- [3/4, oz, Sweet Vermouth]
+- ['1', dash, Lemon Juice]
+instructions: Shake with ice and strain into a cocktail glass. Garnish with a 
+  lemon twist.
+reference: LUPEC Boston
+tags: [newish]

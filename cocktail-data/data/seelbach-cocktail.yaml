@@ -1,0 +1,11 @@
+name: Seelbach Cocktail
+recipeElements:
+- ['1', oz, Bourbon, isBase: true]
+- [1/2, oz, Cointreau]
+- ['7', dash, Angostura Bitters]
+- ['7', dash, Peychaud’s Bitters]
+- ['5', oz, Champagne, isBase: true]
+instructions: Build in a champagne flute, stir, add champagne. Garnish with an 
+  orange twist.
+reference: LUPEC Boston
+tags: [newish]

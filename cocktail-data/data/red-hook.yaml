@@ -1,0 +1,10 @@
+name: Red Hook
+recipeElements:
+- ['2', oz, Rye Whiskey, isBase: true]
+- [1/2, oz, Maraschino]
+- [1/2, oz, Sweet Vermouth, note: Punt e Mes]
+instructions: Stir with ice and strain into a cocktail glass. Garnish with a 
+  cherry.
+reference: Imbibe
+referenceDetail: January/February 2007, pg 32
+tags: [newish, standard]

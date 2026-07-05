@@ -1,0 +1,9 @@
+name: Brown Derby
+recipeElements:
+- ['2', oz, Bourbon, isBase: true]
+- ['1', oz, Grapefruit Juice]
+- [1/2, oz, Honey]
+instructions: Shake with ice and strain into a chilled cocktail glass.
+reference: Field Guide to Cocktails
+referenceDetail: pg 69
+tags: [newish]

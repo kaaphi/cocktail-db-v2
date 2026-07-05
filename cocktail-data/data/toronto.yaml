@@ -1,0 +1,10 @@
+name: Toronto
+recipeElements:
+- ['2', oz, Rye Whiskey, isBase: true]
+- [1/4, oz, Fernet Branca]
+- [1/4, oz, Simple Syrup]
+instructions: Stir with ice and strain into a chilled cocktail glass. Garnish 
+  with a strip of orange peel.
+reference: Imbibe
+referenceDetail: March/April 2010, pg 26
+tags: [newish]

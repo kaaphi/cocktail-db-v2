@@ -1,0 +1,11 @@
+name: The Swafford
+recipeElements:
+- ['1', oz, Applejack, isBase: true]
+- ['1', oz, Rye Whiskey, isBase: true]
+- [1/2, oz, Maraschino]
+- [1/2, oz, Green Chartreuse]
+- ['2', dash, Orange Bitters, note: Angostura Orange]
+instructions: Stir with ice and strain into glass.
+reference: Imbibe
+referenceDetail: Novbember/December 2008, pg 48
+tags: [newish]

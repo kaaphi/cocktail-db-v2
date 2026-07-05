@@ -1,0 +1,12 @@
+name: Bronx Cocktail
+recipeElements:
+- ['2', oz, Gin, isBase: true]
+- [1/2, oz, Dry Vermouth]
+- [1/2, oz, Sweet Vermouth]
+- ['1', oz, Orange Juice]
+instructions: Shake all ingredients with ice. Strain into chilled cocktail 
+  glass.
+reference: Field Guide to Cocktails
+referenceDetail: pg 73
+note: Excellent with freshly squeezed blood orange juice as well.
+tags: [summer, standard]

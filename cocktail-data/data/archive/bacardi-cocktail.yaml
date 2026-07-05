@@ -1,0 +1,9 @@
+name: Bacardi Cocktail
+recipeElements:
+- [1 1/2, oz, Light Rum, {note: Barcardi, isBase: true}]
+- [1/2, oz, Lime Juice]
+- [1/2, tsp, Grenadine]
+instructions: Shake well with ice and strain into a chilled cocktail glass.
+reference: Field Guide to Cocktails
+referenceDetail: pg 53
+tags: [standard]

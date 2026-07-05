@@ -1,0 +1,9 @@
+name: Frisco
+recipeElements:
+- ['2', oz, Rye Whiskey, isBase: true]
+- [1/2, oz, Bénédictine]
+- [1/2, oz, Lemon Juice]
+instructions: Shake with ice and strain into a chilled cocktail glass.
+reference: Imbibe
+referenceDetail: July/August 2008, pg 41
+tags: [standard]

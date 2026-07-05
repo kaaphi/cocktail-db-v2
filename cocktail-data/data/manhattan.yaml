@@ -1,0 +1,10 @@
+name: Manhattan
+recipeElements:
+- ['2', oz, Rye Whiskey, isBase: true]
+- ['1', oz, Sweet Vermouth]
+- ['3', dash, Aromatic Bitters, note: Angostura]
+instructions: Mix with plenty of ice in a mixing glass. Strain into cocktail 
+  glass. Garnish with cherry or orange peel. Garnish with an orange twist or a 
+  cherry.
+note: Ratio can vary from 4:1 to 1:1.
+tags: [standard]

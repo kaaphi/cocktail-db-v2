@@ -1,0 +1,12 @@
+name: Violet Fizz
+recipeElements:
+- [1 1/2, oz, Gin, isBase: true]
+- [1/2, oz, Crème de Violette]
+- ['1', oz, Lemon Juice]
+- [1/2, oz, Sugar]
+- ['5', oz, Soda Water]
+instructions: Shake all but soda water with ice. Strain into glass with ice and 
+  top with soda water.
+reference: Imbibe
+referenceDetail: November/December 2007, pg 16
+tags: [newish, refreshing]

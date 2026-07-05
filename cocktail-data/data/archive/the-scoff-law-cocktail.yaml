@@ -1,0 +1,10 @@
+name: The Scoff Law Cocktail
+recipeElements:
+- [1 1/2, oz, Rye Whiskey, {note: Old Overholt, isBase: true}]
+- ['1', oz, Dry Vermouth]
+- [3/4, oz, Lemon Juice]
+- [3/4, oz, Grenadine]
+instructions: Shake with ice and strain into a chilled cocktail glass. Garnish 
+  with a lemon twist.
+reference: LUPEC Boston
+tags: [standard, newish]

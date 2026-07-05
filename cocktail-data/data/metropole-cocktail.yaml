@@ -1,0 +1,11 @@
+name: Metropole Cocktail
+recipeElements:
+- [1 1/2, oz, Brandy, {note: VSOP cognac, isBase: true}]
+- [1 1/2, oz, Dry Vermouth]
+- ['2', dash, Peychaud’s Bitters]
+- ['1', dash, Orange Bitters]
+instructions: Stir with ice and strain into a cocktail glass. Garnish with a 
+  cherry.
+reference: Imbibe!
+referenceDetail: pg 249
+note: Can also use 2 parts Brandy to 1 vermouth.

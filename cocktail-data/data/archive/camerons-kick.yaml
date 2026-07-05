@@ -1,0 +1,11 @@
+name: Cameron’s Kick
+recipeElements:
+- ['1', oz, Blended Scotch, {note: Famous Grouse, isBase: true}]
+- ['1', oz, Irish Whiskey, isBase: true]
+- [1/2, oz, Orgeat]
+- [1/2, oz, Lemon Juice]
+instructions: Shake with ice and strain into chilled cocktail glass. Garnish 
+  with an orange twist.
+reference: Imbibe
+referenceDetail: November/December 2007, pg 18
+tags: [newish]

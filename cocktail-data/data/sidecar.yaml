@@ -1,0 +1,6 @@
+name: Sidecar
+recipeElements:
+- ['1', oz, Brandy, isBase: true]
+- [3/4, oz, Cointreau]
+- [3/4, oz, Lemon Juice]
+instructions: Stir with ice and strain into a chilled cocktail glass.

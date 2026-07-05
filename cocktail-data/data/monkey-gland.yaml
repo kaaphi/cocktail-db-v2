@@ -1,0 +1,9 @@
+name: Monkey Gland
+recipeElements:
+- ['2', oz, Gin, isBase: true]
+- ['1', oz, Orange Juice]
+- [1/2, tsp, Grenadine]
+- [1/2, tsp, Absinthe]
+instructions: Shake with ice and strain into chilled cocktail glass. Garnish 
+  with orange twist.
+tags: [standard]

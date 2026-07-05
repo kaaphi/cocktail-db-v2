@@ -1,0 +1,12 @@
+name: Mexi-Gin Martini
+recipeElements:
+- ['2', oz, Gin, {note: Plymouth, isBase: true}]
+- [1/2, oz, Dry Vermouth, note: Dolin]
+- [1/4, oz, Mezcal]
+- [1/4, oz, Blanco Tequila, note: jalapeño-infused]
+- [1/4, oz, Green Chartreuse]
+- ['1', dash, Celery Bitters, note: Bitter Truth]
+instructions: Stir over ice and strain into cocktail glass. Best with a milder 
+  gin.
+reference: Death & Co
+referenceDetail: pg 166

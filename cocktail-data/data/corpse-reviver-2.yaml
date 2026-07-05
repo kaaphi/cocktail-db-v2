@@ -1,0 +1,9 @@
+name: 'Corpse Reviver #2'
+recipeElements:
+- ['1', oz, Gin, {note: Plymouth, isBase: true}]
+- ['1', oz, Lillet Blanc]
+- ['1', oz, Cointreau]
+- ['1', dash, Absinthe]
+instructions: Shake well with ice and strain into a chilled cocktail glass. 
+  Garnish with an orange peel or cherry.
+tags: [newish]

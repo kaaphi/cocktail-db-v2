@@ -1,0 +1,11 @@
+name: The Lion’s Tail
+recipeElements:
+- ['2', oz, Bourbon, isBase: true]
+- [1/2, oz, Allspice Dram]
+- [1/2, oz, Lime Juice]
+- [1/2, oz, Simple Syrup]
+- ['2', dash, Angostura Bitters]
+instructions: Shake with ice and strain into a chilled cocktail glass.
+reference: Imbibe
+referenceDetail: March/April 2008, pg 20
+tags: [newish]

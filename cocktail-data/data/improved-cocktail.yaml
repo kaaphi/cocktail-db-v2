@@ -1,0 +1,12 @@
+name: Improved Cocktail
+recipeElements:
+- ['2', oz, Spirits, note: 'Brandy, Gin, or Whiskey']
+- ['1', tsp, Gum Syrup, note: or simple syrup]
+- [1/2, tsp, Maraschino]
+- [1/8, tsp, Absinthe]
+- ['3', dash, Aromatic Bitters]
+instructions: Stir in mixing glass with plenty of ice. Strain into cocktail 
+  glass. Garnish with a lemon twist.
+reference: Imbibe!
+referenceDetail: pg 192
+tags: [standard]

@@ -1,0 +1,10 @@
+name: Americano
+recipeElements:
+- [1 1/2, oz, Campari, isBase: true]
+- [1 1/2, oz, Sweet Vermouth]
+- ['5', oz, Soda Water]
+instructions: Pour the Campari and vermouth over ice and fill with club soda. 
+  Garnish with a slice of orange, lemon, or lime.
+reference: Field Guide to Cocktails
+referenceDetail: pg 42
+tags: [summer, light, refreshing]

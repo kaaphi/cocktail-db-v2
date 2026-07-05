@@ -1,0 +1,12 @@
+name: Swedish Punsch
+recipeElements:
+- ['9', oz, Simple Syrup]
+- ['6', oz, Batavia-Arrack, isBase: true]
+- ['3', oz, Lemon Juice]
+- [1/4, tsp, Freshly Grated Nutmeg]
+- [1 2/3, tsp, Cardamom, note: or seeds from 10 pods ground]
+instructions: Combine all ingredients in a glass jar and shake to combine. 
+  Refrigerate for 24 hours before using and shake before each use.
+reference: Imbibe
+referenceDetail: January/February 2009, pg 76
+tags: [multipleservings, ingredient]

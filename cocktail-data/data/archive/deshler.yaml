@@ -1,0 +1,11 @@
+name: Deshler
+recipeElements:
+- [1 1/2, oz, Rye Whiskey, isBase: true]
+- ['1', oz, Dubonnet]
+- ['2', dash, Cointreau]
+- ['3', dash, Peychaud’s Bitters]
+instructions: Stir with ice and strain into chilled cocktail glass. Garnish with
+  an orange twist.
+reference: Imbibe
+referenceDetail: November/December 2009, pg 22
+tags: [newish]

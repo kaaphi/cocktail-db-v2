@@ -1,0 +1,9 @@
+name: Algonquin
+recipeElements:
+- ['2', oz, Rye Whiskey, isBase: true]
+- ['1', oz, Dry Vermouth]
+- ['1', oz, Unsweetened Pineapple Juice]
+instructions: Shake with ice and strain into a chilled cocktail glass. Garnish 
+  with a cherry.
+reference: Field Guide to Cocktails
+referenceDetail: pg 38

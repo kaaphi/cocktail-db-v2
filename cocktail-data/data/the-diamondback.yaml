@@ -1,0 +1,9 @@
+name: The Diamondback
+recipeElements:
+- [1 1/2, oz, Rye Whiskey, {note: Rittenhouse bonded, isBase: true}]
+- [3/4, oz, Applejack, note: Laird’s bonded apple brandy]
+- [3/4, oz, Green Chartreuse, note: Yellow can also work]
+instructions: Stir with ice and strain into a cocktail glass. Garnish with a 
+  cherry.
+reference: The Cocktail Chronicles
+tags: [newish]

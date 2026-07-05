@@ -1,0 +1,11 @@
+name: Cocktail à la Louisiane
+recipeElements:
+- [3/4, oz, Rye Whiskey, isBase: true]
+- [3/4, oz, Sweet Vermouth]
+- [3/4, oz, Bénédictine]
+- ['3', dash, Absinthe]
+- ['3', dash, Peychaud’s Bitters]
+instructions: Stir well with ice and stain into a chilled cocktail glass. 
+  Garnish with a cherry.
+reference: The Cocktail Chronicles
+tags: [newish, standard]

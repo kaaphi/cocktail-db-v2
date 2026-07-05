@@ -1,0 +1,10 @@
+name: Jasmine Smiles
+recipeElements:
+- [1/2, oz, Gin]
+- [1/2, oz, Campari]
+- [1/2, oz, Cointreau]
+- [1/2, oz, Lemon Juice]
+- ['4', oz, Champagne, {note: Brut, isBase: true}]
+instructions: Shake all but Champagne and strain into flute. Top with Champagne.
+reference: Imbibe
+referenceDetail: November/December 2008 pg 43

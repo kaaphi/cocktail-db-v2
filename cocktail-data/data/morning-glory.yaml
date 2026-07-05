@@ -1,0 +1,12 @@
+name: Morning Glory
+recipeElements:
+- ['1', oz, Rye Whiskey, isBase: true]
+- ['1', oz, Brandy, {note: Cognac, isBase: true}]
+- ['1', tsp, Curaçao]
+- ['1', tsp, Absinthe]
+- ['2', dash, Aromatic Bitters, note: Angostura]
+- ['6', oz, Soda Water]
+instructions: Stir all but soda with ice and strain into a rocks glass with ice.
+  Top with soda and garnish with a lemon twist.
+reference: Imbibe Unfiltered
+tags: [newish, refreshing]

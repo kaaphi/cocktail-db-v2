@@ -1,0 +1,12 @@
+name: Sazerac
+recipeElements:
+- ['2', oz, Rye Whiskey, isBase: true]
+- [1/2, tsp, Sugar, note: or scant tsp of simple syrup]
+- ['2', dash, Peychaud’s Bitters]
+- ['1', rinse, Absinthe]
+instructions: Muddle the sugar with a little bit of water and the bitters. Stir 
+  well with plenty of ice. Rinse a chilled small bar glass with the absinthe and
+  strain the rest of the ingredients into the same.
+reference: Imbibe!
+referenceDetail: pg 199
+tags: [standard]

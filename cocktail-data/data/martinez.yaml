@@ -1,0 +1,9 @@
+name: Martinez
+recipeElements:
+- ['1', oz, Gin, isBase: true]
+- ['2', oz, Sweet Vermouth, isBase: true]
+- ['1', tsp, Maraschino]
+- ['1', dash, Aromatic Bitters, note: Angostura]
+instructions: Stir with ice and strain into cocktail glass.
+reference: Imbibe!
+referenceDetail: pg 245

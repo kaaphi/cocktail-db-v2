@@ -1,0 +1,8 @@
+name: French 75
+recipeElements:
+- [1 1/2, oz, Gin, isBase: true]
+- [1/2, oz, Simple Syrup]
+- [1/2, oz, Lemon Juice]
+- ['3', oz, Champagne]
+instructions: Shake all but champagne with ice. Strain into a champagne flute or
+  saucer and fill with chilled champagne. Garnish with a lemon twist.

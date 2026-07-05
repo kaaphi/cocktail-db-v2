@@ -1,0 +1,13 @@
+name: The Smoking Gun
+recipeElements:
+- ['2', oz, Scotch, {note: 'Islay or other peaty scotch, Laphroaig', isBase: 
+      true}]
+- [3/4, tsp, Fernet Branca]
+- [1/2, tsp, Brown Sugar Cordial]
+- ['3', dash, Aromatic Bitters, note: Fee Bros. Whiskey Barrel Bitters]
+instructions: "Stir very well with ice and strain into chilled cocktail glass. Garnish
+  with a mint leaf.\n\nBrown Sugar Cordial: heat 2:1 mixture of brown sugar and water
+  until slightly thickened; cool and stir in 1 oz demera rum per 10 oz syrup."
+reference: Imbibe
+referenceDetail: November/December 2009, pg 42
+tags: [newish, specialingredient]

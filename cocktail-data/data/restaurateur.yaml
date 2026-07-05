@@ -1,0 +1,15 @@
+name: Restaurateur
+recipeElements:
+- ['1', oz, Gin, isBase: true]
+- [1/2, oz, Yellow Chartreuse]
+- [1/2, oz, Fernet Branca]
+- [3/4, oz, Lime Juice]
+- [1/2, oz, Simple Syrup]
+- ['3', slices, Fresh Ginger]
+- ['4', oz, Ginger Beer, isBase: true]
+instructions: Muddle ginger in a shaker until crushed. Shake all but the ginger 
+  beer with ice. Strain into highball glass and top with ginger beer. Garnish 
+  with a lime wheel.
+reference: Imbibe
+referenceDetail: March/April 2010, pg 26
+tags: [newish, summer, refreshing]

@@ -1,0 +1,10 @@
+name: Trinidad Sour
+recipeElements:
+- ['1', oz, Angostura Bitters, isBase: true]
+- ['1', oz, Orgeat]
+- [3/4, oz, Lemon Juice]
+- [1/2, oz, Rye Whiskey, note: high proof]
+instructions: Shake well with ice and strain into a chilled cocktail glass.
+reference: Imbibe
+referenceDetail: September/October 2010, pg 49
+tags: [newish]

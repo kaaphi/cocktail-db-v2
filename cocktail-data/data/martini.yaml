@@ -1,0 +1,9 @@
+name: Martini
+recipeElements:
+- ['2', oz, Gin, isBase: true]
+- ['1', oz, Dry Vermouth]
+- ['2', dash, Orange Bitters, note: optional]
+instructions: Stir in mixing glass with plenty of ice. Strain into chilled 
+  cocktail glass. Garnish with a lemon twist or an olive.
+note: Ratio can vary from 8:1 to 1:1.
+tags: [standard]

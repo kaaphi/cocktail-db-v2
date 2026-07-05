@@ -1,0 +1,7 @@
+name: Gin and Tonic
+recipeElements:
+- ['2', oz, Gin, {note: Tanqueray works well, isBase: true}]
+- ['1', glass, Tonic Water]
+instructions: Pour Gin and Tonic into a highball glass with ice. Garnish with a 
+  lime wedge.
+tags: [summer, refreshing]

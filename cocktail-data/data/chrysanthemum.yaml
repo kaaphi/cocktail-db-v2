@@ -1,0 +1,10 @@
+name: Chrysanthemum
+recipeElements:
+- ['2', oz, Dry Vermouth, isBase: true]
+- [1/4, oz, Bénédictine]
+- ['3', dash, Absinthe]
+instructions: Stir well with ice and strain into chilled glass. Garnish with an 
+  orange twist.
+reference: Imbibe
+referenceDetail: January/February 2008, pg 40
+tags: [newish, standard]

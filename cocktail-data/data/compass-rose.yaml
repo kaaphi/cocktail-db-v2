@@ -1,0 +1,10 @@
+name: Compass Rose
+recipeElements:
+- [1 1/2, oz, Brandy, {note: Cognac, isBase: true}]
+- [3/4, oz, Campari]
+- [1/4, oz, Maraschino]
+- ['1', dash, Aromatic Bitters, note: Fee Bros. Whiskey Barrel-Aged]
+instructions: Stir with ice and strain into a chilled cocktail glass. Garnish 
+  with a lemon twist.
+reference: Imbibe Unfiltered
+tags: [newish]

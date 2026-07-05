@@ -1,0 +1,9 @@
+name: Tuxedo
+recipeElements:
+- ['2', oz, Gin, {note: Plymouth, isBase: true}]
+- ['1', oz, Dry Sherry, note: Fino Sherry]
+- ['1', dash, Orange Bitters]
+instructions: Stir with ice and strain into chilled cocktail glass. Garnish with
+  a lemon twist.
+reference: Imbibe
+referenceDetail: November/December 2007, pg 67

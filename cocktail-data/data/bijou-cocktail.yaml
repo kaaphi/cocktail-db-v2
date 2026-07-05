@@ -1,0 +1,9 @@
+name: Bijou Cocktail
+recipeElements:
+- ['1', oz, Gin, {note: Plymouth, isBase: true}]
+- ['1', oz, Green Chartreuse]
+- ['1', oz, Sweet Vermouth]
+instructions: Stir in mixing glass with plenty of ice. Strain into cocktail 
+  glass. Garnish with a lemon twist.
+reference: Imbibe!
+referenceDetail: pg 256

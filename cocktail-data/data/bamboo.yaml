@@ -1,0 +1,10 @@
+name: Bamboo
+recipeElements:
+- [1 1/2, oz, Dry Sherry, {note: Fino Sherry, isBase: true}]
+- [1 1/2, oz, Dry Vermouth, isBase: true]
+- ['2', dash, Orange Bitters]
+instructions: Stir with ice and strain into chilled cocktail glass. Garnish with
+  a lemon twist.
+reference: Imbibe
+referenceDetail: November/December 2007, pg 66
+tags: [newish]

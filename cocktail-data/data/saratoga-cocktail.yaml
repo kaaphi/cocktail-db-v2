@@ -1,0 +1,11 @@
+name: Saratoga Cocktail
+recipeElements:
+- ['1', oz, Rye Whiskey, isBase: true]
+- ['1', oz, Brandy, isBase: true]
+- ['1', oz, Sweet Vermouth]
+- ['1', oz, Aromatic Bitters, note: Angostura]
+instructions: Stir in mixing glass with plenty of ice. Strain into cocktail 
+  glass. Garnish with a lemon wedge.
+reference: Imbibe!
+referenceDetail: pg 254
+tags: [winter]

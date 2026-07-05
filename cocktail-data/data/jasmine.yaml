@@ -1,0 +1,10 @@
+name: Jasmine
+recipeElements:
+- [1 1/2, oz, Gin, isBase: true]
+- [3/4, oz, Lemon Juice]
+- [1/4, oz, Cointreau]
+- [1/4, oz, Campari]
+instructions: Stir with ice and strain into chilled cocktail glass. Garnish with
+  a lemon twist.
+reference: A Dash of Bitters
+tags: [standard, newish]

@@ -1,0 +1,4259 @@
+[
+    {
+        "name": "Adonis",
+        "instructions": "Stir with ice and strain into a chilled cocktail glass.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 34",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Dry Sherry",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "probably aromatic bitters",
+                "unit": "tsp",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Alaska Cocktail",
+        "instructions": "Stir well with ice and strain into a chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "September/October 2010, pg 51",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Yellow Chartreuse",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Regan’s",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Algonquin",
+        "instructions": "Shake with ice and strain into a chilled cocktail glass. Garnish with a cherry.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 38",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Unsweetened Pineapple Juice",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Americano",
+        "instructions": "Pour the Campari and vermouth over ice and fill with club soda. Garnish with a slice of orange, lemon, or lime.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 42",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "summer",
+            "light",
+            "refreshing"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Campari",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Soda Water",
+                "amount": [
+                    5,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Appetizer à l’Italienne",
+        "instructions": "Stir well with ice and strain into a chilled cocktail glass.",
+        "reference": "Imbibe",
+        "referenceDetail": "March/April 2010, pg 26",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Fernet Branca",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Simple Syrup",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Applejack Cocktail",
+        "instructions": "Shake with ice and strain into a chilled cocktail glass. Garnish with apple slices.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 48",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Applejack",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Curaçao",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Angostura Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Bamboo",
+        "instructions": "Stir with ice and strain into chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "November/December 2007, pg 66",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Dry Sherry",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "Fino Sherry",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Bee’s Knees",
+        "instructions": "Shake all but nutmeg with ice. Strain into chilled cocktail glass and dust with nutmeg.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 58",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Honey",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Freshly Grated Nutmeg",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dusting",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Bijou Cocktail",
+        "instructions": "Stir in mixing glass with plenty of ice. Strain into cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe!",
+        "referenceDetail": "pg 256",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Plymouth",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Green Chartreuse",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Blood Red Sky",
+        "instructions": "Shake all ingredients with ice and strain into a small chilled wine glass.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Mezcal",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Campari",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Blood Orange Juice",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Boulevardier",
+        "instructions": "Stir well with ice and strain into a cocktail glass. Garnish with an orange slice, lemon twist, or cherry.",
+        "reference": "Imbibe",
+        "referenceDetail": "March/April 2007, pg 18",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Bourbon",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Campari",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "try Carpano Antica",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Brandy Alexander",
+        "instructions": "Shake all but nutmeg vigorously with ice and strain into a chilled cocktail glass. Garnish with the nutmeg.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 36",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Brandy",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dark Crème de Cacao",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Heavy Cream",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Freshly Grated Nutmeg",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "pinch",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Bronx Cocktail",
+        "instructions": "Shake all ingredients with ice. Strain into chilled cocktail glass.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 73",
+        "note": "Excellent with freshly squeezed blood orange juice as well.",
+        "indexElements": true,
+        "tags": [
+            "summer",
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Juice",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Brooklynite",
+        "instructions": "Shake with ice and strain into chilled cocktail glass.",
+        "reference": "Imbibe",
+        "referenceDetail": "https://imbibemagazine.com/brooklynite-recipe/",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Jamaican Rum",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lime Juice",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Honey Syrup",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "1:1",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Chinese Cocktail",
+        "instructions": "Stir with ice and strain into a glass. Garnish with an orange twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "January/February 2007, pg 25",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rum",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "Jamaican, Appleton Estate VX",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Cointreau",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Grenadine",
+                "amount": [
+                    4,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Chinese Five-Spice Syrup",
+        "instructions": "Grind spices to a coarse powder. Toast spices in a stainless steel pot until they smoke (a few seconds). Remove from heat while shaking and tossing. Repeat the toasting steps about three more times, until the spices are very aromatic. Add the simple syrup and bring to a boil. Reduce heat to low and add the honey. Simmer for five minutes, then remove from heat and let the mixture cool. Strain through a fine mesh strainer. Keeps for up to a month in the refrigerator.",
+        "reference": "Imbibe",
+        "referenceDetail": "January/February 2009, pg 18",
+        "note": "",
+        "indexElements": false,
+        "tags": [
+            "ingredient"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Star Anise",
+                "amount": [
+                    5,
+                    1
+                ],
+                "note": "",
+                "unit": "pods",
+                "isBase": false
+            },
+            {
+                "ingredient": "Fennel Seeds",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "tbsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Cinnamon",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "3 inches, broken in pieces",
+                "unit": "stick",
+                "isBase": false
+            },
+            {
+                "ingredient": "Whole Cloves",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Szechuan Peppercorns",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "tbsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Simple Syrup",
+                "amount": [
+                    8,
+                    3
+                ],
+                "note": "",
+                "unit": "cup",
+                "isBase": false
+            },
+            {
+                "ingredient": "Honey",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Chrysanthemum",
+        "instructions": "Stir well with ice and strain into chilled glass. Garnish with an orange twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "January/February 2008, pg 40",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Bénédictine",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Cocktail à la Louisiane",
+        "instructions": "Stir well with ice and stain into a chilled cocktail glass. Garnish with a cherry.",
+        "reference": "The Cocktail Chronicles",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Bénédictine",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Peychaud’s Bitters",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Compass Rose",
+        "instructions": "Stir with ice and strain into a chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe Unfiltered",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Brandy",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "Cognac",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Campari",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Fee Bros. Whiskey Barrel-Aged",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Corpse Reviver #2",
+        "instructions": "Shake well with ice and strain into a chilled cocktail glass. Garnish with an orange peel or cherry.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Plymouth",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lillet Blanc",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Cointreau",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Daisy de Santiago",
+        "instructions": "Shake rum, lime, and simple syrup with ice and strain into rocks glass with ice. Add soda water then gently pour the Chartreuse over the top. Garnish with mint.",
+        "reference": "The Cocktail Chronicles",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "refreshing"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rum",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Aged or White",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lime Juice",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Simple Syrup",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Yellow Chartreuse",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Soda Water",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Damson Gin",
+        "instructions": "Wash damons. Prick each fruit several times and place in a large jar or bottle. Add the sugar and top up with gin. Shake daily until sugar is dissolved, then store in a cool dark place (at least three months). Strain and bottle.",
+        "reference": "The Cottage Smallholder",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": false,
+        "tags": [
+            "multipleservings"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    750,
+                    1
+                ],
+                "note": "",
+                "unit": "ml",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sugar",
+                "amount": [
+                    6,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Damson Plums",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "lb",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Ford Cocktail",
+        "instructions": "Stir with ice and then strain into a chilled cocktail glass. Garnish with an orange twist.",
+        "reference": "Modern American Drinks",
+        "referenceDetail": "via A Dash of Bitters",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Bénédictine",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Fourth Degree",
+        "instructions": "Stir with ice and strain into a chilled cocktail glass. Garnish with lemon peel.",
+        "reference": "Imbibe!",
+        "referenceDetail": "pg 246",
+        "note": "Also called a “Gin and It” with the absinthe replaced by aromatic bitters.",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "French 75",
+        "instructions": "Shake all but champagne with ice. Strain into a champagne flute or saucer and fill with chilled champagne. Garnish with a lemon twist.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Simple Syrup",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Champagne",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Frisco",
+        "instructions": "Shake with ice and strain into a chilled cocktail glass.",
+        "reference": "Imbibe",
+        "referenceDetail": "July/August 2008, pg 41",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Bénédictine",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Gin and It and Dry",
+        "instructions": "Stir with ice and strain into a cocktail glass.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Gin and Tonic",
+        "instructions": "Pour Gin and Tonic into a highball glass with ice. Garnish with a lime wedge.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "summer",
+            "refreshing"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Tanqueray works well",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Tonic Water",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "glass",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Ginger Honey Rye",
+        "instructions": "Shake with ice and strain into chilled cocktail glass.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Aquavit",
+                "amount": [
+                    5,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Honey Syrup",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Grated Ginger",
+                "amount": [
+                    0,
+                    0
+                ],
+                "note": "",
+                "unit": "",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Gypsy",
+        "instructions": "Stir with ice and strain into a chilled cocktail glass.",
+        "reference": "Imbibe",
+        "referenceDetail": "March/April 2010, pg 48",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Vodka",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Bénédictine",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Angostura Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Improved Cocktail",
+        "instructions": "Stir in mixing glass with plenty of ice. Strain into cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe!",
+        "referenceDetail": "pg 192",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Spirits",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Brandy, Gin, or Whiskey",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Gum Syrup",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "or simple syrup",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    1,
+                    8
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Indispensable Cocktail à la Gibson",
+        "instructions": "Stir with ice and strain into a chilled cocktail glass. Garnish with a pickled pearl onion.",
+        "reference": "Imbibe",
+        "referenceDetail": "September/October 2010, pg 22",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Jasmine",
+        "instructions": "Stir with ice and strain into chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "A Dash of Bitters",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "standard",
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Cointreau",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Campari",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Jasmine Smiles",
+        "instructions": "Shake all but Champagne and strain into flute. Top with Champagne.",
+        "reference": "Imbibe",
+        "referenceDetail": "November/December 2008 pg 43",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Campari",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Cointreau",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Champagne",
+                "amount": [
+                    4,
+                    1
+                ],
+                "note": "Brut",
+                "unit": "oz",
+                "isBase": true
+            }
+        ]
+    },
+    {
+        "name": "Kingston Negroni",
+        "instructions": "Stir with ice and strain into ice-filled glass.",
+        "reference": "Imbibe",
+        "referenceDetail": "https://imbibemagazine.com/kingston-negroni-recipe/",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Jamaican Rum",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Smith and Cross",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Campari",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            }
+        ]
+    },
+    {
+        "name": "Manhattan",
+        "instructions": "Mix with plenty of ice in a mixing glass. Strain into cocktail glass. Garnish with cherry or orange peel. Garnish with an orange twist or a cherry.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "Ratio can vary from 4:1 to 1:1.",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "Angostura",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Margarita",
+        "instructions": "Shake with ice and strain into a chilled glass. Garnish with a lime wedge.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 171",
+        "note": "Can be served up or on the rocks.",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Tequila",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lime Juice",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Cointreau",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "or simple syrup",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Martinez",
+        "instructions": "Stir with ice and strain into cocktail glass.",
+        "reference": "Imbibe!",
+        "referenceDetail": "pg 245",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Angostura",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Martini",
+        "instructions": "Stir in mixing glass with plenty of ice. Strain into chilled cocktail glass. Garnish with a lemon twist or an olive.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "Ratio can vary from 8:1 to 1:1.",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "optional",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Metropole Cocktail",
+        "instructions": "Stir with ice and strain into a cocktail glass. Garnish with a cherry.",
+        "reference": "Imbibe!",
+        "referenceDetail": "pg 249",
+        "note": "Can also use 2 parts Brandy to 1 vermouth.",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Brandy",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "VSOP cognac",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Peychaud’s Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Monkey Gland",
+        "instructions": "Shake with ice and strain into chilled cocktail glass. Garnish with orange twist.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Orange Juice",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Grenadine",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Morning Glory",
+        "instructions": "Stir all but soda with ice and strain into a rocks glass with ice. Top with soda and garnish with a lemon twist.",
+        "reference": "Imbibe Unfiltered",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "refreshing"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Brandy",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Cognac",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Curaçao",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Angostura",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Soda Water",
+                "amount": [
+                    6,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Negroni",
+        "instructions": "Stir in mixing glass with plenty of ice. Strain into chilled cocktail glass. Garnish with a slice of orange.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "or try Mezcal or Jamaican Rum",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Campari",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            }
+        ]
+    },
+    {
+        "name": "Red Hook",
+        "instructions": "Stir with ice and strain into a cocktail glass. Garnish with a cherry.",
+        "reference": "Imbibe",
+        "referenceDetail": "January/February 2007, pg 32",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "Punt e Mes",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Restaurateur",
+        "instructions": "Muddle ginger in a shaker until crushed. Shake all but the ginger beer with ice. Strain into highball glass and top with ginger beer. Garnish with a lime wheel.",
+        "reference": "Imbibe",
+        "referenceDetail": "March/April 2010, pg 26",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "summer",
+            "refreshing"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Yellow Chartreuse",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Fernet Branca",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lime Juice",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Simple Syrup",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Fresh Ginger",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "slices",
+                "isBase": false
+            },
+            {
+                "ingredient": "Ginger Beer",
+                "amount": [
+                    4,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            }
+        ]
+    },
+    {
+        "name": "Rookie Highball",
+        "instructions": "Combine all but ginger ale in a glass with ice and stir well. Fill with ginger ale. Garnish with slice of fresh ginger and a lemon twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "July/August 2008, pg 14",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "summer",
+            "refreshing"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Pimm’s No. 1 Cup",
+                "amount": [
+                    9,
+                    8
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Irish Whiskey",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Jameson’s",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Angostura Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Ginger Ale",
+                "amount": [
+                    5,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Rye",
+        "instructions": "Shake with ice and strain into chilled cocktail glass. Black peppercorn-infused rye: Combine ¾ oz coarsely ground black pepper with ½ liter of rye whiskey. Infuse 48 hours.",
+        "reference": "Imbibe",
+        "referenceDetail": "May/June 2010, pg 28",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "specialingredient"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Black Peppercorn-Infused Rye Whiskey",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Ginger Liqueur",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Simple Syrup",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lime Juice",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Saratoga Cocktail",
+        "instructions": "Stir in mixing glass with plenty of ice. Strain into cocktail glass. Garnish with a lemon wedge.",
+        "reference": "Imbibe!",
+        "referenceDetail": "pg 254",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "winter"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Brandy",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Angostura",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Sazerac",
+        "instructions": "Muddle the sugar with a little bit of water and the bitters. Stir well with plenty of ice. Rinse a chilled small bar glass with the absinthe and strain the rest of the ingredients into the same.",
+        "reference": "Imbibe!",
+        "referenceDetail": "pg 199",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sugar",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "or scant tsp of simple syrup",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Peychaud’s Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Absinthe",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "rinse",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Seelbach Cocktail",
+        "instructions": "Build in a champagne flute, stir, add champagne. Garnish with an orange twist.",
+        "reference": "LUPEC Boston",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Bourbon",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Cointreau",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Angostura Bitters",
+                "amount": [
+                    7,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Peychaud’s Bitters",
+                "amount": [
+                    7,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Champagne",
+                "amount": [
+                    5,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            }
+        ]
+    },
+    {
+        "name": "Sidecar",
+        "instructions": "Stir with ice and strain into a chilled cocktail glass.",
+        "reference": "",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Brandy",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Cointreau",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Swedish Punsch",
+        "instructions": "Combine all ingredients in a glass jar and shake to combine. Refrigerate for 24 hours before using and shake before each use.",
+        "reference": "Imbibe",
+        "referenceDetail": "January/February 2009, pg 76",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "multipleservings",
+            "ingredient"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Simple Syrup",
+                "amount": [
+                    9,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Batavia-Arrack",
+                "amount": [
+                    6,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Freshly Grated Nutmeg",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Cardamom",
+                "amount": [
+                    5,
+                    3
+                ],
+                "note": "or seeds from 10 pods ground",
+                "unit": "tsp",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "The Black Forest",
+        "instructions": "Shake with ice and strain into a flute.",
+        "reference": "Imbibe",
+        "referenceDetail": "May/June 2008, pg 46",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Cold Coffee",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Bénédictine",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "The Bohannon",
+        "instructions": "Shake with ice and strain into chilled cocktail glass; garnish with the black pepper.",
+        "reference": "Imbibe",
+        "referenceDetail": "January/February 2009, pg 76",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "specialingredient"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Green Chartreuse",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Swedish Punsch",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Black Pepper",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "pinch",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "The Diamondback",
+        "instructions": "Stir with ice and strain into a cocktail glass. Garnish with a cherry.",
+        "reference": "The Cocktail Chronicles",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "Rittenhouse bonded",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Applejack",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "Laird’s bonded apple brandy",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Green Chartreuse",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "Yellow can also work",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "The Smoking Gun",
+        "instructions": "Stir very well with ice and strain into chilled cocktail glass. Garnish with a mint leaf.\n\nBrown Sugar Cordial: heat 2:1 mixture of brown sugar and water until slightly thickened; cool and stir in 1 oz demera rum per 10 oz syrup.",
+        "reference": "Imbibe",
+        "referenceDetail": "November/December 2009, pg 42",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "specialingredient"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Scotch",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Islay or other peaty scotch, Laphroaig",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Fernet Branca",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Brown Sugar Cordial",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "Fee Bros. Whiskey Barrel Bitters",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "The Swafford",
+        "instructions": "Stir with ice and strain into glass.",
+        "reference": "Imbibe",
+        "referenceDetail": "Novbember/December 2008, pg 48",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Applejack",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Green Chartreuse",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Angostura Orange",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "The Widow’s Kiss",
+        "instructions": "Shake with plenty of ice and strain into a chilled cocktail glass.",
+        "reference": "LUPEC Boston",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Applejack",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Yellow Chartreuse",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Bénédictine",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Tipperary",
+        "instructions": "Stir with ice and strain into chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe Unfiltered",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Irish Whiskey",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "Carpano Antica Formula",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Green Chartreuse",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Toronto",
+        "instructions": "Stir with ice and strain into a chilled cocktail glass. Garnish with a strip of orange peel.",
+        "reference": "Imbibe",
+        "referenceDetail": "March/April 2010, pg 26",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Fernet Branca",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Simple Syrup",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Tuxedo",
+        "instructions": "Stir with ice and strain into chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "November/December 2007, pg 67",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Plymouth",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Sherry",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Fino Sherry",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Vesper",
+        "instructions": "Combine all ingredients in shaker with plenty of ice. Shake well and strain into a chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "Casino Royale",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Vodka",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lillet Blanc",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "original calls for Kina Lillet",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "the bitters help approximate the Kina Lillet",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Volcano House Hot Buttered Rum",
+        "instructions": "Combine all but butter and tea in a pre-heated mug. Top with hot tea and float butter on top. Garnish with a lemon twist and cloves.",
+        "reference": "Imbibe",
+        "referenceDetail": "November/December 2007, pg 32",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "winter",
+            "hotdrink"
+        ],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Dark Rum",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "Meyers'",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sugar",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Hot Black Tea",
+                "amount": [
+                    5,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Unsalted Butter",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "pat",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Ants in the Pants",
+        "instructions": "Shake with ice and strain into a cocktail glass. Garnish with a lemon twist.",
+        "reference": "LUPEC Boston",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Grand Marnier",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Attention",
+        "instructions": "Stir with ice and strain into chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "July/August 2007, pg 35",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Crème de Violette",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Pernod",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "or other pastis",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Bacardi Cocktail",
+        "instructions": "Shake well with ice and strain into a chilled cocktail glass.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 53",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "standard"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Light Rum",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "Barcardi",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lime Juice",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Grenadine",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "tsp",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Brooklyn Cocktail",
+        "instructions": "Shake with ice and strain into a chilled cocktail glass.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 75",
+        "note": "Seems like this one should be stirred.",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Amer Picon",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Brown Derby",
+        "instructions": "Shake with ice and strain into a chilled cocktail glass.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 69",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Bourbon",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Grapefruit Juice",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Honey",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Cameron’s Kick",
+        "instructions": "Shake with ice and strain into chilled cocktail glass. Garnish with an orange twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "November/December 2007, pg 18",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Blended Scotch",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Famous Grouse",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Irish Whiskey",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Orgeat",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Deshler",
+        "instructions": "Stir with ice and strain into chilled cocktail glass. Garnish with an orange twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "November/December 2009, pg 22",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dubonnet",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Cointreau",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Peychaud’s Bitters",
+                "amount": [
+                    3,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Kentucky Fix",
+        "instructions": "Muddle in a mixing glass to break down sugar. Add ice and stir very well. Garnish with a flamed orange peel.\n\nCoffee-infused bourbon: add ¼ cup coffee beans to 1½ cups bourbon. Let sit 12 hours before straining.",
+        "reference": "Imbibe",
+        "referenceDetail": "July/August 2010, pg 67",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "specialingredient"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Coffee-Infused Bourbon",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sugar",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "demerara",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Regan’s",
+                "unit": "dash",
+                "isBase": false
+            },
+            {
+                "ingredient": "Aromatic Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Fee Bros. Whiskey Barrel-Aged Bitters",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Leap Year Cocktail",
+        "instructions": "Shake with ice and strain into a chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "Field Guide to Cocktails",
+        "referenceDetail": "pg 153",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Grand Marnier",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Mamie Taylor",
+        "instructions": "Pour scotch in highball glass with ice. Squeeze in lime juice and top with ginger beer. Garnish with a lime wedge.",
+        "reference": "Imbibe",
+        "referenceDetail": "July/August 2008, pg 30",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "summer",
+            "refreshing"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Blended Scotch",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lime Juice",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Ginger Beer",
+                "amount": [
+                    6,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Opera",
+        "instructions": "Shake with ice and strain into a chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "January/February 2007, pg 69",
+        "note": "Seems like this should be stirred.",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Hendrick’s",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dubonnet",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Maraschino",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Orange Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Regan’s",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Studebaker",
+        "instructions": "Stir with ice and strain into a cocktail glass. Garnish with a lemon twist.",
+        "reference": "Imbibe",
+        "referenceDetail": "September/October 2008, pg 69",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "specialingredient",
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Bourbon",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Lillet Blanc",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lingonberry Syrup",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Darbo is a good brand",
+                "unit": "tsp",
+                "isBase": false
+            },
+            {
+                "ingredient": "Peach Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "The Lion’s Tail",
+        "instructions": "Shake with ice and strain into a chilled cocktail glass.",
+        "reference": "Imbibe",
+        "referenceDetail": "March/April 2008, pg 20",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Bourbon",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Allspice Dram",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lime Juice",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Simple Syrup",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Angostura Bitters",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "The Scoff Law Cocktail",
+        "instructions": "Shake with ice and strain into a chilled cocktail glass. Garnish with a lemon twist.",
+        "reference": "LUPEC Boston",
+        "referenceDetail": "",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "standard",
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "Old Overholt",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Grenadine",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Trinidad Sour",
+        "instructions": "Shake well with ice and strain into a chilled cocktail glass.",
+        "reference": "Imbibe",
+        "referenceDetail": "September/October 2010, pg 49",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Angostura Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Orgeat",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    3,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Rye Whiskey",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "high proof",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Violet Fizz",
+        "instructions": "Shake all but soda water with ice. Strain into glass with ice and top with soda water.",
+        "reference": "Imbibe",
+        "referenceDetail": "November/December 2007, pg 16",
+        "note": "",
+        "indexElements": true,
+        "tags": [
+            "newish",
+            "refreshing"
+        ],
+        "archived": true,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    3,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Crème de Violette",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Lemon Juice",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Sugar",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Soda Water",
+                "amount": [
+                    5,
+                    1
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Hanky-Panky",
+        "instructions": "Stir over ice and strain into a Nick & Nora glass.",
+        "reference": "Death & Co",
+        "referenceDetail": "pg 144",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Fords",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Sweet Vermouth",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Carpano Antica",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Fernet Branca",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            }
+        ]
+    },
+    {
+        "name": "Mexi-Gin Martini",
+        "instructions": "Stir over ice and strain into cocktail glass. Best with a milder gin.",
+        "reference": "Death & Co",
+        "referenceDetail": "pg 166",
+        "note": "",
+        "indexElements": true,
+        "tags": [],
+        "archived": false,
+        "recipeElements": [
+            {
+                "ingredient": "Gin",
+                "amount": [
+                    2,
+                    1
+                ],
+                "note": "Plymouth",
+                "unit": "oz",
+                "isBase": true
+            },
+            {
+                "ingredient": "Dry Vermouth",
+                "amount": [
+                    1,
+                    2
+                ],
+                "note": "Dolin",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Mezcal",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Blanco Tequila",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "jalapeño-infused",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Green Chartreuse",
+                "amount": [
+                    1,
+                    4
+                ],
+                "note": "",
+                "unit": "oz",
+                "isBase": false
+            },
+            {
+                "ingredient": "Celery Bitters",
+                "amount": [
+                    1,
+                    1
+                ],
+                "note": "Bitter Truth",
+                "unit": "dash",
+                "isBase": false
+            }
+        ]
+    }
+]

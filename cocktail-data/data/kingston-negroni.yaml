@@ -1,0 +1,8 @@
+name: Kingston Negroni
+recipeElements:
+- ['1', oz, Jamaican Rum, {note: Smith and Cross, isBase: true}]
+- ['1', oz, Campari, isBase: true]
+- ['1', oz, Sweet Vermouth, isBase: true]
+instructions: Stir with ice and strain into ice-filled glass.
+reference: Imbibe
+referenceDetail: https://imbibemagazine.com/kingston-negroni-recipe/

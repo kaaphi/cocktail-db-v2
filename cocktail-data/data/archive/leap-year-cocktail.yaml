@@ -1,0 +1,10 @@
+name: Leap Year Cocktail
+recipeElements:
+- ['2', oz, Gin, isBase: true]
+- [1/2, oz, Grand Marnier]
+- [1/4, oz, Lemon Juice]
+instructions: Shake with ice and strain into a chilled cocktail glass. Garnish 
+  with a lemon twist.
+reference: Field Guide to Cocktails
+referenceDetail: pg 153
+tags: [newish]

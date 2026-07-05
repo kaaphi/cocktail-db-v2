@@ -1,0 +1,12 @@
+name: Opera
+recipeElements:
+- ['2', oz, Gin, {note: Hendrick’s, isBase: true}]
+- [1/2, oz, Dubonnet]
+- [1/4, oz, Maraschino]
+- ['1', dash, Orange Bitters, note: Regan’s]
+instructions: Shake with ice and strain into a chilled cocktail glass. Garnish 
+  with a lemon twist.
+reference: Imbibe
+referenceDetail: January/February 2007, pg 69
+note: Seems like this should be stirred.
+tags: [newish]

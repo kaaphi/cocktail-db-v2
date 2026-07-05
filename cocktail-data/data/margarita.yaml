@@ -1,0 +1,11 @@
+name: Margarita
+recipeElements:
+- ['2', oz, Tequila, isBase: true]
+- ['1', oz, Lime Juice]
+- [3/4, oz, Cointreau, note: or simple syrup]
+instructions: Shake with ice and strain into a chilled glass. Garnish with a 
+  lime wedge.
+reference: Field Guide to Cocktails
+referenceDetail: pg 171
+note: Can be served up or on the rocks.
+tags: [standard]

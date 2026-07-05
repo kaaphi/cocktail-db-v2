@@ -1,0 +1,8 @@
+name: Hanky-Panky
+recipeElements:
+- ['2', oz, Gin, {note: Fords, isBase: true}]
+- ['1', oz, Sweet Vermouth, note: Carpano Antica]
+- [1/4, oz, Fernet Branca]
+instructions: Stir over ice and strain into a Nick & Nora glass.
+reference: Death & Co
+referenceDetail: pg 144

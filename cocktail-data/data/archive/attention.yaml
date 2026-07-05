@@ -1,0 +1,12 @@
+name: Attention
+recipeElements:
+- ['2', oz, Gin, isBase: true]
+- [1/4, oz, Dry Vermouth]
+- [1/4, oz, Crème de Violette]
+- [1/4, oz, Pernod, note: or other pastis]
+- ['2', dash, Orange Bitters]
+instructions: Stir with ice and strain into chilled cocktail glass. Garnish with
+  a lemon twist.
+reference: Imbibe
+referenceDetail: July/August 2007, pg 35
+tags: [newish]

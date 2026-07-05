@@ -1,0 +1,10 @@
+name: Boulevardier
+recipeElements:
+- [1 1/2, oz, Bourbon, isBase: true]
+- ['1', oz, Campari]
+- ['1', oz, Sweet Vermouth, note: try Carpano Antica]
+instructions: Stir well with ice and strain into a cocktail glass. Garnish with 
+  an orange slice, lemon twist, or cherry.
+reference: Imbibe
+referenceDetail: March/April 2007, pg 18
+tags: [standard]

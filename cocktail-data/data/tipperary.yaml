@@ -1,0 +1,9 @@
+name: Tipperary
+recipeElements:
+- ['2', oz, Irish Whiskey, isBase: true]
+- [3/4, oz, Sweet Vermouth, note: Carpano Antica Formula]
+- [1/2, oz, Green Chartreuse]
+instructions: Stir with ice and strain into chilled cocktail glass. Garnish with
+  a lemon twist.
+reference: Imbibe Unfiltered
+tags: [newish]

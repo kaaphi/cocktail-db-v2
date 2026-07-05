@@ -1,0 +1,12 @@
+name: Kentucky Fix
+recipeElements:
+- ['2', oz, Coffee-Infused Bourbon, isBase: true]
+- ['1', tsp, Sugar, note: demerara]
+- ['2', dash, Orange Bitters, note: Regan’s]
+- ['1', dash, Aromatic Bitters, note: Fee Bros. Whiskey Barrel-Aged Bitters]
+instructions: "Muddle in a mixing glass to break down sugar. Add ice and stir very
+  well. Garnish with a flamed orange peel.\n\nCoffee-infused bourbon: add ¼ cup coffee
+  beans to 1½ cups bourbon. Let sit 12 hours before straining."
+reference: Imbibe
+referenceDetail: July/August 2010, pg 67
+tags: [newish, specialingredient]

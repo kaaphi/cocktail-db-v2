@@ -1,0 +1,11 @@
+name: Ford Cocktail
+recipeElements:
+- ['1', oz, Gin, isBase: true]
+- ['1', oz, Dry Vermouth, isBase: true]
+- ['3', dash, Bénédictine]
+- ['3', dash, Orange Bitters]
+instructions: Stir with ice and then strain into a chilled cocktail glass. 
+  Garnish with an orange twist.
+reference: Modern American Drinks
+referenceDetail: via A Dash of Bitters
+tags: [newish, standard]

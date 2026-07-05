@@ -1,0 +1,12 @@
+name: Rookie Highball
+recipeElements:
+- [1 1/8, oz, Pimm’s No. 1 Cup, isBase: true]
+- ['1', oz, Irish Whiskey, {note: Jameson’s, isBase: true}]
+- ['2', dash, Angostura Bitters]
+- ['2', dash, Lemon Juice]
+- ['5', oz, Ginger Ale]
+instructions: Combine all but ginger ale in a glass with ice and stir well. Fill
+  with ginger ale. Garnish with slice of fresh ginger and a lemon twist.
+reference: Imbibe
+referenceDetail: July/August 2008, pg 14
+tags: [newish, summer, refreshing]
