@@ -47,12 +47,12 @@ export const CategorizedCocktails = ({ onlyBaseIngredients }: CategorizedCocktai
             </Table>
             {
                 sortedIngredients.map((ingredient) => <section key={ingredient.id}>
-                    <Title order={3} id={ingredient.id} style={{ scrollMarginTop: `${headerHeight}px` }}>{ingredient.name}</Title>
+                    <Title order={3} id={ingredient.id} style={{ scrollMarginTop: `${headerHeight}px`,  cursor: 'pointer' }} onClick={() => window.scrollTo(0, 0)} >{ingredient.name}</Title>
                     <Table>
                         <Table.Tbody>
                             {byIngredient[ingredient.name].map((cocktailKey) => <Table.Tr key={cocktailKey}><Table.Td><Anchor p="xs" display="block" component={Link} to={`/cocktail/${cocktailKey}`}>{cocktails_db[cocktailKey].name}</Anchor></Table.Td></Table.Tr>)}
                         </Table.Tbody>
-                    </Table>
+                    </Table>                    
                 </section>)
             }
         </Stack>
