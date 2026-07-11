@@ -7,7 +7,7 @@ from pathlib import Path
 from pydantic import TypeAdapter
 from ruamel.yaml import YAML
 
-from models import YamlCocktail, JsonCocktail
+from models import YamlCocktail, JsonCocktail, safe_file_name
 
 
 def main():
@@ -21,11 +21,13 @@ def main():
             data = yaml.load(f)
 
         yaml_cocktail = YamlCocktail.model_validate(data)
-        cocktails[yaml_cocktail.name] = yaml_cocktail.to_json()
+        cocktails[safe_file_name(yaml_cocktail.name)] = yaml_cocktail.to_json()
 
     adapter = TypeAdapter(dict[str, JsonCocktail])
 
-    with open("output.json", "wb") as f:
+    output_file = Path(__file__).parent.parent / "cocktail-ui" / "src" / "data" / "cocktails.json"
+
+    with open(output_file, "wb") as f:
         f.write(adapter.dump_json(cocktails, indent=2))
 
 
