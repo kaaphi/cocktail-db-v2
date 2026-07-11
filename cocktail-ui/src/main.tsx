@@ -8,6 +8,7 @@ import { AlphabeticalCocktails } from './AlphabeticalCocktails.tsx';
 import { CocktailView } from './Cocktail.tsx';
 import { TitlePage } from './TitlePage.tsx';
 import { CategorizedCocktails } from './CategorizedCocktails.tsx';
+import { SearchResults } from './SearchResults.tsx';
 
 export const ScrollToTop = () => {
   const { pathname } = useLocation();
@@ -33,6 +34,7 @@ createRoot(document.getElementById('root')!).render(
           <Route path="/base-ingredients" element={<CategorizedCocktails onlyBaseIngredients={true} />} />
           <Route path="/all-ingredients" element={<CategorizedCocktails onlyBaseIngredients={false}/>} />
           <Route path="/cocktail/:cocktailSafeName" element={<CocktailView />} />
+          <Route path="/search" element={<SearchResults />} />
           <Route path="*" element={<span>NOT FOUND</span>} />
         </Route>
       </Routes>
