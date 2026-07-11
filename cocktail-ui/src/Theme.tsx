@@ -5,8 +5,7 @@ export const theme = createTheme({
         NavLink: NavLink.extend({
             styles: {
                 label: {
-                    fontFamily: "Alegreya, serif",
-                    fontSize: 'var(--mantine-font-size-xl)',
+                    fontSize: 'var(--mantine-font-size-lg)',
                 }
             }
         })

@@ -7,11 +7,11 @@ const Amount = ({amount}:{amount : string}) => {
     if (matches) {
         const [,wholeNumber, fraction] = matches;
         if (wholeNumber && fraction) {
-            return <>{wholeNumber} <Text span style={{"font-variant-numeric": "diagonal-fractions"}}>{fraction}</Text></>
+            return <>{wholeNumber} <Text span style={{fontVariantNumeric: "diagonal-fractions"}}>{fraction}</Text></>
         } else if (wholeNumber) {
             return wholeNumber
         } else {
-            return <Text span style={{"font-variant-numeric": "diagonal-fractions"}}>{fraction}</Text>
+            return <Text span style={{fontVariantNumeric: "diagonal-fractions"}}>{fraction}</Text>
         }        
     } else {
         return amount
@@ -35,7 +35,7 @@ export const CocktailView = () => {
             <Table style={{ width: 'max-content', tableLayout: 'auto' }}>
                 <Table.Tbody>
                     {cocktail.recipeElements.map((e) =>
-                        <Table.Tr><Table.Td><Amount amount={e.amount} /> {e.unit}</Table.Td><Table.Td>{e.ingredient}{e.note && <Text span fs="italic" size="xs"> ({e.note})</Text>}</Table.Td></Table.Tr>
+                        <Table.Tr key={e.ingredient}><Table.Td><Amount amount={e.amount} /> {e.unit}</Table.Td><Table.Td>{e.ingredient}{e.note && <Text span fs="italic" size="xs"> ({e.note})</Text>}</Table.Td></Table.Tr>
                     )}
                 </Table.Tbody>
             </Table>
