@@ -13,6 +13,7 @@ export interface Cocktail {
     instructions: string,
     reference?: string | null,
     referenceDetail?: string | null,
+    note?: string | null,
     indexElements: boolean,
     tags: string[],
     recipeElements: CocktailElement[]
