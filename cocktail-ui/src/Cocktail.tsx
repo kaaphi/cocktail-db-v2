@@ -3,7 +3,7 @@ import { cocktails_db } from "./models"
 import { Stack, Table, Text, Title } from "@mantine/core";
 
 const Amount = ({amount}:{amount : string}) => {
-    const matches = amount.match(/(\d+)?\s*(\d+\/\d+)?/)
+    const matches = amount.match(/^(\d+)?\s*(\d+\/\d+)?$/)
     if (matches) {
         const [,wholeNumber, fraction] = matches;
         if (wholeNumber && fraction) {
