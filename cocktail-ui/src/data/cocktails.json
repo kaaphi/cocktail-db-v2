@@ -1146,7 +1146,7 @@
   },
   "hanky-panky": {
     "name": "Hanky-Panky",
-    "instructions": "Stir over ice and strain into a Nick & Nora glass.",
+    "instructions": "Stir over ice and strain into a Nick & Nora glass. Garnish with a lemon twist.",
     "reference": "Death & Co",
     "referenceDetail": "pg 144",
     "note": null,
@@ -1747,6 +1747,38 @@
         "ingredient": "Sweet Vermouth",
         "note": null,
         "isBase": true
+      }
+    ]
+  },
+  "port-city-rum-old-fashioned": {
+    "name": "Port City Rum Old Fashioned",
+    "instructions": "Stir in mixing glass with plenty of ice. Strain into rocks glass with ice. Garnish with orange peel.",
+    "reference": null,
+    "referenceDetail": null,
+    "note": null,
+    "indexElements": true,
+    "tags": [],
+    "recipeElements": [
+      {
+        "amount": "2",
+        "unit": "oz",
+        "ingredient": "Jamaican Rum",
+        "note": "Smith & Cross",
+        "isBase": true
+      },
+      {
+        "amount": "1/4",
+        "unit": "oz",
+        "ingredient": "Fernet Branca",
+        "note": null,
+        "isBase": false
+      },
+      {
+        "amount": "1/4",
+        "unit": "oz",
+        "ingredient": "Simple Syrup",
+        "note": null,
+        "isBase": false
       }
     ]
   },

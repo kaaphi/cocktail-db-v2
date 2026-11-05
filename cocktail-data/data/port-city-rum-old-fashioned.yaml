@@ -1,0 +1,6 @@
+name: Port City Rum Old Fashioned
+recipeElements:
+- ['2', oz, Jamaican Rum, {note: Smith & Cross, isBase: true}]
+- [1/4, oz, Fernet Branca, isBase: false]
+- [1/4, oz, Simple Syrup, isBase: false]
+instructions: Stir in mixing glass with plenty of ice. Strain into rocks glass with ice. Garnish with orange peel.
